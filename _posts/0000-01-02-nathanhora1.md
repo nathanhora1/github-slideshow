@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+**This is getting tough... but I am excited to get better!**
